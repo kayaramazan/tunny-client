@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/kayaramazan/tunny-client/internal/cli"
+	"github.com/kayaramazan/tunny/internal/cli"
 )
 
 func main() {

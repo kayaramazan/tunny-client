@@ -20,7 +20,7 @@ import (
 	"go.uber.org/zap"
 	"nhooyr.io/websocket"
 
-	"github.com/kayaramazan/tunny-client/internal/common"
+	"github.com/kayaramazan/tunny/internal/common"
 )
 
 var (
