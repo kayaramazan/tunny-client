@@ -1,4 +1,4 @@
-module github.com/kayaramazan/tunny-client
+module github.com/kayaramazan/tunny
 
 go 1.22
 
