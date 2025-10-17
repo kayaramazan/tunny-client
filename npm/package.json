@@ -6,9 +6,9 @@
   "bin": {
     "tunny": "./bin/tunny.js"
   },
-  "homepage": "https://github.com/yourname/tunny",
+  "homepage": "https://github.com/kayaramazan/tunny-client",
   "bugs": {
-    "url": "https://github.com/yourname/tunny/issues"
+    "url": "https://github.com/kayaramazan/tunny-client/issues"
   },
   "scripts": {
     "postinstall": "node install.js",
@@ -22,11 +22,11 @@
     "localhost",
     "expose"
   ],
-  "author": "Your Name",
+  "author": "Kaya Ramazan",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourname/tunny"
+    "url": "https://github.com/kayaramazan/tunny-client"
   },
   "os": [
     "darwin",

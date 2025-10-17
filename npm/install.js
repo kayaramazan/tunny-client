@@ -35,7 +35,7 @@ const binDir = path.join(__dirname, 'bin');
 const binaryPath = path.join(binDir, binaryName);
 
 // GitHub release URL
-const downloadUrl = `https://github.com/yourname/tunny/releases/download/v${version}/tunny_${version}_${goos}_${goarch}.tar.gz`;
+const downloadUrl = `https://github.com/kayaramazan/tunny-client/releases/download/v${version}/tunny_${version}_${goos}_${goarch}.tar.gz`;
 
 console.log(`📦 Downloading Tunny ${version} for ${goos}/${goarch}...`);
 console.log(`   ${downloadUrl}`);
