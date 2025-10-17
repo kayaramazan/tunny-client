@@ -178,7 +178,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 - **GitHub**: https://github.com/kayaramazan/tunny
 - **NPM**: https://www.npmjs.com/package/tunny-tunnel
-- **Issues**: https://github.com/kayaramazan/tunny/issues
+- **Issues**: https://github.com/kayaramazan/tunny-client/issues
 
 ## ⚠️ Note
 
