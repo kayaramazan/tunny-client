@@ -1,14 +1,14 @@
 # GoReleaser v2 configuration for Tunny Client
 version: 2
 
-project_name: tunny
+project_name: tunny-client
 
 before:
   hooks:
     - go mod tidy
 
 builds:
-  - id: tunny
+  - id: tunny-client
     main: ./cmd/tunny
     binary: tunny
     env:
