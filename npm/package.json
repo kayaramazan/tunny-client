@@ -1,0 +1,49 @@
+{
+  "name": "tunny-tunnel",
+  "version": "1.0.0",
+  "description": "Ngrok-like reverse tunnel CLI - Connect your localhost to the internet",
+  "main": "index.js",
+  "bin": {
+    "tunny": "./bin/tunny.js"
+  },
+  "homepage": "https://github.com/yourname/tunny",
+  "bugs": {
+    "url": "https://github.com/yourname/tunny/issues"
+  },
+  "scripts": {
+    "postinstall": "node install.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "tunnel",
+    "ngrok",
+    "reverse-proxy",
+    "http",
+    "localhost",
+    "expose"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/tunny"
+  },
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "cpu": [
+    "x64",
+    "arm64"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "bin/",
+    "install.js",
+    "index.js"
+  ]
+}
+
