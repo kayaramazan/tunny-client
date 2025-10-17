@@ -21,12 +21,12 @@ npm install -g tunny-tunnel
 ### Via Go
 
 ```bash
-go install github.com/kayaramazan/tunny/cmd/tunny@latest
+go install github.com/kayaramazan/tunny-client/cmd/tunny@latest
 ```
 
 ### Download Binary
 
-Download the latest release from [GitHub Releases](https://github.com/kayaramazan/tunny/releases)
+Download the latest release from [GitHub Releases](https://github.com/kayaramazan/tunny-client/releases)
 
 ## 🚀 Quick Start
 
@@ -178,7 +178,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 - **GitHub**: https://github.com/kayaramazan/tunny
 - **NPM**: https://www.npmjs.com/package/tunny-tunnel
-- **Issues**: https://github.com/kayaramazan/tunny/issues
+- **Issues**: https://github.com/kayaramazan/tunny-client/issues
 
 ## ⚠️ Note
 

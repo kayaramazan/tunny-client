@@ -109,7 +109,7 @@ tunny connect localhost:5000 --token dev --subdomain flask-app
 ## 🔗 Links
 
 - **GitHub**: https://github.com/kayaramazan/tunny
-- **Issues**: https://github.com/kayaramazan/tunny/issues
+- **Issues**: https://github.com/kayaramazan/tunny-client/issues
 - **Documentation**: https://github.com/kayaramazan/tunny#readme
 
 ## 📄 License
